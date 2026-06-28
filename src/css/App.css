@@ -1,0 +1,10 @@
+.container-menu-navbar {
+  display: flex;
+  flex-direction: row; 
+  min-height: 100vh;
+  width: 100%;
+}
+
+.conteudo-principal {
+  flex: 1;
+}
